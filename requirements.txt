@@ -1,0 +1,15 @@
+openai==1.13.3
+zhipuai==2.0.1
+python-dotenv==1.0.0
+torchaudio
+PyPDF2==3.0.1
+markdown==3.6
+html2text==2024.2.26
+tiktoken==0.5.2
+beautifulsoup4==4.12.2
+langchain
+langchain-community
+langchain_openai
+gradio
+ipykernel
+numpy==1.26.4
